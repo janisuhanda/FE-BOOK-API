@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+.add-menu{
+    border: 1px solid greenyellow;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
